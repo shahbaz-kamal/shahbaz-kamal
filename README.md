@@ -22,6 +22,10 @@
 
 ###
 
+<h3 align="left">Full Stack Web Developer</h3>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
