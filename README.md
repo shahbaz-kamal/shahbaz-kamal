@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/shahbaz-kamal/shahbaz-kamal/refs/heads/main/banner3.png"  />
+  <img height="350" src="https://raw.githubusercontent.com/shahbaz-kamal/shahbaz-kamal/refs/heads/main/banner3.png"  />
 </div>
 
 ###
