@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm from Bangladesh<br><br>- 🔭 I’m working as a Data Artist at Catalyst Solutions while also pursuing my passion for full-stack web development.<br>- 📚 I'm currently learning advanced full-stack technologies and enhancing my skills as a MERN stack developer.<br>- ⚡ In my free time, I enjoy reading novels and playing cricket, which help me relax and stay inspired.</p>
+<p align="left">I'm from Bangladesh<br><br>- 🔭 I’m working as a Data Artist at Catalyst Solutions while also pursuing my passion for full-stack web development.<br>- 📚 I'm currently learning advanced Next.Js and enhancing my skills as a MERN stack developer.<br>- ⚡ In my free time, I enjoy reading novels and playing cricket, which help me relax and stay inspired.</p>
 
 ###
 
