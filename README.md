@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Md. Shahbaz Kamal Chowdhury || MERN Stack Web Developer</h1>
+<h2 align="center">Md. Shahbaz Kamal Chowdhury || MERN Stack Web Developer</h1>
 
 
 
