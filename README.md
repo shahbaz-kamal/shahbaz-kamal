@@ -18,11 +18,11 @@
 
 ###
 
-<h1 align="left">Md. Shahbaz Kamal Chowdhury</h1>
+<h1 align="center">Md. Shahbaz Kamal Chowdhury</h1>
 
-###
 
-<h3 align="left">Full Stack Web Developer</h3>
+
+<h3 align="center">MERN Stack Web Developer</h3>
 
 ###
 
