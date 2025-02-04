@@ -35,7 +35,7 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">🛠 Skills</h3>
 
 ###
 
