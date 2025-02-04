@@ -22,7 +22,7 @@
 
 
 
-<h3 align="center">MERN Stack Web Developer</h3>
+<h1 align="center">MERN Stack Web Developer</h3>
 
 ###
 
