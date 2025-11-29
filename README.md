@@ -3,7 +3,7 @@
 </div>
 
 ###
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shahbaz-kamal)](https://git.io/streak-stats)
 <div align="center">
   <a href="https://www.linkedin.com/in/md-shahbaz-kamal-chowdhury/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
