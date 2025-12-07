@@ -66,7 +66,7 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
 <h3 align="center">🔥   My Stats :</h3>
 
 ###
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbaz-kamal&label=Profile%20views&color=0e75b6&style=flat" alt="shahbaz-kamal" /> </p>
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&show_icons=true&locale=en&theme=dracula&hide_border=false&card_width=320" height="150"  /> -->
