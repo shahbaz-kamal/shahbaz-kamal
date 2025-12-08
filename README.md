@@ -69,7 +69,7 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shahbaz-kamal&label=Profile%20views&color=0e75b6&style=flat" alt="shahbaz-kamal" /> </p>
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
-[![GitHub Streak](https://streak-stats.demolab.com?user=shahbaz-kamal&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shahbaz-kamal&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 
