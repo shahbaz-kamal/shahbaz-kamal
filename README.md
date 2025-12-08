@@ -70,8 +70,7 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&show_icons=true&locale=en&theme=dracula&hide_border=false&card_width=320" height="150"  /> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahbaz-kamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shahbaz-kamal" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shahbaz-kamal&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
 <!--   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&show_icons=true&locale=en" alt="shahbaz-kamal" />   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahbaz-kamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  /></p> -->
