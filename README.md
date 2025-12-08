@@ -70,6 +70,7 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
 <img  src="https://github-readme-stats-eight-theta.vercel.app/api?username=shahbaz-kamal&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shahbaz-kamal" alt="GitHub Streak" /></a>
 </div>
 
 
