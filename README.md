@@ -72,16 +72,9 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
     <img src="https://komarev.com/ghpvc/?username=shahbaz-kamal&color=8c62d8&style=flat" alt="Profile Views" style="border-radius: 10px;" />
   </div>
   
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&theme=dracula&show_icons=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-kamal&theme=dracula&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+| | |
+|-|-|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&theme=dracula&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-kamal&theme=dracula&layout=compact) |
 
 
   <!-- Streak Stats Card -->
