@@ -85,7 +85,7 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
 
 
   <!-- Streak Stats Card -->
-  <div style="flex: 1 1 300px; max-width: 400px; background-color: #2b2b2b; border-radius: 15px; padding: 15px; display: flex; justify-content: center; align-items: center;">
+  <div style="margin-bottom: 25px; flex: 1 1 300px; max-width: 400px; background-color: #2b2b2b; border-radius: 15px; padding: 15px; display: flex; justify-content: center; align-items: center;">
     <a href="https://git.io/streak-stats" target="_blank">
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shahbaz-kamal&theme=dracula&layout=compact" alt="GitHub Streak" style="border-radius: 10px;" />
     </a>
