@@ -66,17 +66,16 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
 <h3 align="center">🔥   My Stats :</h3>
 
 ###
-
 <div align="center">
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=shahbaz-kamal&label=Profile%20views&color=0e75b6&style=flat" alt="shahbaz-kamal" /> </p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahbaz-kamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shahbaz-kamal&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a> -->
-
-  <!-- <img src="https://streak-stats.demolab.com?user=shahbaz-kamal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz-kamal&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&theme=dracula&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-kamal&theme=dracula&layout=compact" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz-kamal&theme=dracula" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=shahbaz-kamal&color=8c62d8&style=flat" alt="Profile Views" />
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shahbaz-kamal)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz-kamal&theme=dracula" alt="Activity Graph" />
+</div>
 
 ###
 
