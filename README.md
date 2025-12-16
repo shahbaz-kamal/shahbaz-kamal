@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">
+<p align="center">
 I’m a passionate Full Stack Web Developer from Bangladesh, specializing in the MERN stack. I have hands-on experience building real-world projects while learning and enjoy creating responsive and scalable web applications.<br><br>
 - 🔭 Actively seeking a full-stack developer role to apply my skills in meaningful projects.<br>
 - 📚 Currently exploring NestJS and PostgreSQL to expand my backend development skills.<br>
