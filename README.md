@@ -44,7 +44,7 @@ I’m a passionate Full Stack Web Developer from Bangladesh, specializing in the
 
 
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
@@ -69,6 +69,8 @@ I’m a passionate Full Stack Web Developer from Bangladesh, specializing in the
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nestjs logo"  />
 </div>
+
+
 
 
 
