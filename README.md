@@ -75,7 +75,9 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
   <!-- <img src="https://streak-stats.demolab.com?user=shahbaz-kamal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz-kamal&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=shahbaz-kamal)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shahbaz-kamal)](https://git.io/streak-stats)
+
 ###
 
 
