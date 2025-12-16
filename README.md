@@ -72,7 +72,7 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
     <img src="https://komarev.com/ghpvc/?username=shahbaz-kamal&color=8c62d8&style=flat" alt="Profile Views" style="border-radius: 10px;" />
   </div>
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td>
       <div style="background-color: #2b2b2b; border-radius: 15px; padding: 10px;">
