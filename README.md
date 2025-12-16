@@ -63,25 +63,41 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">🔥 My Stats :</h3>
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&theme=dracula&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-kamal&theme=dracula&layout=compact" alt="Top Languages" />
-  <br>
-<a href="https://git.io/streak-stats" target="_blank">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shahbaz-kamal&theme=dracula&layout=compact" alt="GitHub Streak" />
-</a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
+  <!-- GitHub Stats Card -->
+  <div style="flex: 1 1 300px; max-width: 400px; background-color: #2b2b2b; border-radius: 15px; padding: 15px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&theme=dracula&show_icons=true" alt="GitHub Stats" style="border-radius: 10px;" />
+  </div>
 
-  <img src="https://komarev.com/ghpvc/?username=shahbaz-kamal&color=8c62d8&style=flat" alt="Profile Views" />
+  <!-- Top Languages Card -->
+  <div style="flex: 1 1 300px; max-width: 400px; background-color: #2b2b2b; border-radius: 15px; padding: 15px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-kamal&theme=dracula&layout=compact" alt="Top Languages" style="border-radius: 10px;" />
+  </div>
+
+  <!-- Streak Stats Card -->
+  <div style="flex: 1 1 300px; max-width: 400px; background-color: #2b2b2b; border-radius: 15px; padding: 15px; display: flex; justify-content: center; align-items: center;">
+    <a href="https://git.io/streak-stats" target="_blank">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shahbaz-kamal&theme=dracula&layout=compact" alt="GitHub Streak" style="border-radius: 10px;" />
+    </a>
+  </div>
+
+  <!-- Profile Views Card -->
+  <div style="flex: 1 1 300px; max-width: 400px; background-color: #2b2b2b; border-radius: 15px; padding: 15px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://komarev.com/ghpvc/?username=shahbaz-kamal&color=8c62d8&style=flat" alt="Profile Views" style="border-radius: 10px;" />
+  </div>
+
 </div>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz-kamal&theme=dracula" alt="Activity Graph" />
+
+<div align="center" style="margin-top: 25px;">
+  <!-- Activity Graph -->
+  <div style="max-width: 90%; border-radius: 15px; overflow: hidden; display: inline-block;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz-kamal&theme=dracula" alt="Activity Graph" style="border-radius: 10px;" />
+  </div>
 </div>
 
-###
 
 
 
