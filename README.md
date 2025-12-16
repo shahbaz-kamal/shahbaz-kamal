@@ -70,7 +70,9 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
   <img src="https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&theme=dracula&show_icons=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-kamal&theme=dracula&layout=compact" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz-kamal&theme=dracula" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats" target="_blank">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shahbaz-kamal" alt="GitHub Streak" />
+</a>
 
   [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=shahbaz-kamal)](https://git.io/streak-stats)
   <img src="https://komarev.com/ghpvc/?username=shahbaz-kamal&color=8c62d8&style=flat" alt="Profile Views" />
