@@ -71,22 +71,17 @@ I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the M
   <div style="flex: 1 1 300px; max-width: 400px; background-color: #2b2b2b; border-radius: 15px; padding: 15px; display: flex; justify-content: center; align-items: center;">
     <img src="https://komarev.com/ghpvc/?username=shahbaz-kamal&color=8c62d8&style=flat" alt="Profile Views" style="border-radius: 10px;" />
   </div>
+<div align="center">
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td>
-      <div style="background-color: #2b2b2b; border-radius: 15px; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&theme=dracula&show_icons=true" alt="GitHub Stats" style="border-radius: 10px;" />
-      </div>
-    </td>
-    <td style="width: 20px;"></td> <!-- spacing between cards -->
-    <td>
-      <div style="background-color: #2b2b2b; border-radius: 15px; padding: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-kamal&theme=dracula&layout=compact" alt="Top Languages" style="border-radius: 10px;" />
-      </div>
-    </td>
-  </tr>
-</table>
+  <div style="display: inline-block; vertical-align: top; margin: 10px; background-color: #2b2b2b; border-radius: 15px; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&theme=dracula&show_icons=true" alt="GitHub Stats" style="border-radius: 10px;" />
+  </div>
+
+  <div style="display: inline-block; vertical-align: top; margin: 10px; background-color: #2b2b2b; border-radius: 15px; padding: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-kamal&theme=dracula&layout=compact" alt="Top Languages" style="border-radius: 10px;" />
+  </div>
+
+</div>
 
 
   <!-- Streak Stats Card -->
