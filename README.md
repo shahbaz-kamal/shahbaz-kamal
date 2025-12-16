@@ -31,7 +31,12 @@
 ###
 
 <p align="left">
-I’m a dedicated Full Stack Web Developer from Bangladesh with a focus on the MERN stack. I’m constantly expanding my knowledge of new technologies and improving my skills. I enjoy tackling complex challenges and creating impactful web applications.<br><br>- 🔭 I’m actively searching for a job while pursuing my passion for full-stack web development.<br>- 📚 I'm currently learning  Typescript and enhancing my skills as a MERN stack developer.<br>- ⚡ In my free time, I enjoy reading novels and playing cricket, which help me relax and stay inspired.</p>
+I’m a passionate Full Stack Web Developer from Bangladesh, specializing in the MERN stack. I have hands-on experience building real-world projects while learning and enjoy creating responsive and scalable web applications.<br><br>
+- 🔭 Actively seeking a full-stack developer role to apply my skills in meaningful projects.<br>
+- 📚 Currently exploring NestJS and PostgreSQL to expand my backend development skills.<br>
+- ⚡ In my free time, I enjoy reading novels and playing cricket to stay motivated and inspired.
+</p>
+
 
 ###
 
