@@ -107,6 +107,7 @@ I’m a passionate Full Stack Web Developer from Bangladesh, specializing in the
     </a>
   </div>
  <!-- Activity Graph -->
+ </br>
 <div align="center" style="margin-top: 25px;">
  
   <div style="max-width: 90%; border-radius: 15px; overflow: hidden; display: inline-block;">
