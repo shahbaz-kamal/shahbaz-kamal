@@ -121,11 +121,7 @@ I’m a passionate Full Stack Web Developer from Bangladesh, specializing in the
 
 
 
-###
 
-<h3 align="center">🌟  Portfolio</h3>
-
-###
 
 <p align="center">https://portfolio-shahbaz-kamal.netlify.app/</p>
 
