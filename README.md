@@ -111,12 +111,7 @@ I’m a passionate Full Stack Web Developer from Bangladesh, specializing in the
 
 </div>
 
-<div align="center" style="margin-top: 25px;">
-  <!-- Activity Graph -->
-  <div style="max-width: 90%; border-radius: 15px; overflow: hidden; display: inline-block;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz-kamal&theme=dracula" alt="Activity Graph" style="border-radius: 10px;" />
-  </div>
-</div>
+
 
 
 
