@@ -106,8 +106,13 @@ I’m a passionate Full Stack Web Developer from Bangladesh, specializing in the
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=shahbaz-kamal&theme=dracula&layout=compact" alt="GitHub Streak" style="border-radius: 10px;" />
     </a>
   </div>
-
-
+ <!-- Activity Graph -->
+<div align="center" style="margin-top: 25px;">
+ 
+  <div style="max-width: 90%; border-radius: 15px; overflow: hidden; display: inline-block;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahbaz-kamal&theme=dracula" alt="Activity Graph" style="border-radius: 10px;" />
+  </div>
+</div>
 
 </div>
 
