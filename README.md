@@ -8,14 +8,15 @@
   <a href="https://www.linkedin.com/in/shahbaz-kamal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
   </a>
+    <a href="https://shahbaz-kamal-dev.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2" alt="Portfolio" height="30">
+  </a>
   <a href="https://www.facebook.com/tamim.chowdhury.543/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
   </a>
   <a href="https://x.com/tamim120096" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
-  <a href="https://shahbaz-kamal-dev.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2" alt="Portfolio" height="30">
-  </a>
+
 </div>
 
 ###
