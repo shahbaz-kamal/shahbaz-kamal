@@ -14,6 +14,9 @@
   <a href="https://x.com/tamim120096" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="25" alt="twitter logo"  />
   </a>
+    <a href="https://twitter.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" alt="Twitter" height="30">
+  </a>
 </div>
 
 ###
