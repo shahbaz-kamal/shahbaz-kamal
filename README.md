@@ -21,7 +21,7 @@
 
 ###
 
-<h1 align="center">Md. Shahbaz Kamal Chowdhury || FUll Stack Web Developer</h1>
+<h1 align="center">Md. Shahbaz Kamal Chowdhury || Full Stack Web Developer</h1>
 
 
 
