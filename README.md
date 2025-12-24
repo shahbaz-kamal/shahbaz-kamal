@@ -94,18 +94,23 @@ I’m a passionate Full Stack Web Developer from Bangladesh, specializing in the
     <img src="https://komarev.com/ghpvc/?username=shahbaz-kamal&color=8c62d8&style=flat" alt="Profile Views" style="border-radius: 10px;" />
   </div>
   
-<table style="border: none; border-collapse: collapse;">
+<!-- <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=shahbaz-kamal&theme=dracula&show_icons=true" alt="GitHub Stats" />
     </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-kamal&theme=dracula&layout=compact" alt="Top Languages" />
-    </td>
+ 
   </tr>
-</table>
+</table> -->
 
 
+  <!-- Top language -->
+  <div style="margin-bottom: 25px; flex: 1 1 300px; max-width: 400px; background-color: #2b2b2b; border-radius: 15px; padding: 15px; display: flex; justify-content: center; align-items: center;">
+    <a href="https://git.io/streak-stats" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz-kamal&theme=dracula&layout=compact" alt="Top Languages" />
+    </a>
+  </div>
+  
   <!-- Streak Stats Card -->
   <div style="margin-bottom: 25px; flex: 1 1 300px; max-width: 400px; background-color: #2b2b2b; border-radius: 15px; padding: 15px; display: flex; justify-content: center; align-items: center;">
     <a href="https://git.io/streak-stats" target="_blank">
